@@ -1,11 +1,11 @@
 <!--타이틀 부분-->
-<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/{wooryeol}" width="100%"/> </a>
+<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/wooryeol" width="100%"/> </a>
 
 <br>
 
 <!--내용 부분-->
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooryeol&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooryeol&layout=compact" />
 </div>
 
 <br>
